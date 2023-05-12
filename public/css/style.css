@@ -1,0 +1,46 @@
+body {
+  background-color: #96f6ce;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+#container {
+  position: relative;
+  align-items: center;
+  text-align: center;
+  width: 30%;
+  background-color: white;
+}
+
+input {
+  height: 5vh;
+  width: 100%;
+}
+
+#contents {
+  padding: 5%;
+}
+
+.fields {
+  margin-top: 2%;
+}
+
+img {
+  width: 50%;
+}
+button {
+  background-color: #96f6ce;
+  padding: 2%;
+  border: 1px solid black;
+}
+button:hover {
+  cursor: pointer;
+}
+
+footer {
+  font-weight: bolder;
+  font-size: 80%;
+}
